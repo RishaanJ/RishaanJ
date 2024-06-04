@@ -9,8 +9,21 @@ Hi there! My name is Rishaan J and I am a boy located in the San Fransisco Bay A
 
 ### 🧰 Languages and Tools
 
+<div>
 
-HTML, CSS, Javascript, Node, Python, Swift, SwiftUI, Lua, C#, C++, C, MD, Git
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img align="left" width="45px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+          
+
+</div>
 <br />
 
 #
@@ -22,8 +35,3 @@ HTML, CSS, Javascript, Node, Python, Swift, SwiftUI, Lua, C#, C++, C, MD, Git
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=RishaanJ&theme=gruvbox&border_radius=4.5) -->
 
-#
-
-<details>
- <summary><h3>👨‍💻 Rishaan's Coding Journey</h3></summary>
-   Embarking on my coding journey at the young age of 9, I was introduced to the world of programming by my father. As I eagerly listened to his conference calls, my curiosity grew, and I discovered a passion for coding. This led me to enroll in Hackingtons Code School, where I dedicated three transformative years to expanding my knowledge and skills. Throughout this time, I delved deep into various programming languages, becoming fluent in HTML, CSS, JavaScript, Swift, Python, and Lua. These languages have become the building blocks of my creative endeavors, allowing me to craft captivating websites with seamless user experiences, develop intuitive mobile applications, and solve complex problems with elegant and efficient code. Along the way, my dedication and hard work earned me the esteemed title of Diamond Award Student at Hackingtons, recognizing my commitment to excellence. Additionally, I showcased my abilities in a thrilling hackathon, emerging as a victorious innovator. My coding journey has been an exhilarating adventure, filled with constant learning, growth, and a boundless passion for pushing the boundaries of what can be achieved through code. I eagerly anticipate the future possibilities and opportunities that await me as I continue to evolve as a software engineer.
