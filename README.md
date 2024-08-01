@@ -2,7 +2,7 @@
 
 **`Academic Weapon 🤪`**
 
-Hi there! My name is Rishaan J and I am a boy located in the San Fransisco Bay Area. I absolutely love anything related to software engineering, engineering, and math. I find these subjects to be incredibly interesting and I'm always looking for ways to learn more about them.
+Hi there! My name is Rishaan J and I am a dude located in the San Fransisco Bay Area. I absolutely love anything related to software engineering, engineering, and math. I find these subjects to be incredibly interesting and I'm always looking for ways to learn more about them.
 
 
 ---
