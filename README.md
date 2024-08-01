@@ -32,9 +32,9 @@ Hi there! My name is Rishaan J and I am a boy located in the San Fransisco Bay A
 #
 
 
-### 📊 Stats
+### 📊 Most Used Languages
 
-![Rishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishaanJ&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishaanJ&hide_progress=false)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=RishaanJ&theme=gruvbox&border_radius=4.5) -->
 
