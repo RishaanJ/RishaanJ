@@ -20,7 +20,4 @@
 - ✉️ **https://rishaan.cc** or **ssh sup@sup.rishaan.cc**
 
 
-<div style={display: flex, flex-direction: row}>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RishaanJ&" alt="RishaanJ" /></p>
 </div>
