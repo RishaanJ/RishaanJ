@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishaanJ&label=Profile%20views&color=0e75b6&style=flat" alt="rishaanj" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **www.buildlaunchpad.org**
 
 - 🌱 I’m currently learning **agents and startup stuff**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **anything**
 
-- 👨‍💻 All of my projects are available **here**
+- 👨‍💻 All of my projects are available **on my github**
 
 - 💬 Ask me about **react, fullstack, backend, system development**
 
